@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    const repoOwner = 'nasbox';
-    const repoName = 'nasbox.github.io';
-    const branchName = 'FileRepo';
+    const repoOwner = ''; //input your user name
+    const repoName = ''; //your repository name
+    const branchName = ''; //repository branch name
 
     const folderListElement = document.getElementById('folderList');
     const fileListElement = document.getElementById('fileList');
