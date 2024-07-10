@@ -19,7 +19,7 @@ This project provides a web-based interface to view files and folders from a Git
 4. Click on files to view them directly.
 
 ## Technologies Used
-(https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![Techs Used](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - HTML
 - CSS
 - JavaScript
