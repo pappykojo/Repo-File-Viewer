@@ -14,9 +14,10 @@ This project provides a web-based interface to view files and folders from a Git
 ## Usage
 
 1. Clone the repository.
-2. Open `index.html` in a web browser.
-3. Click on folders to expand and view contents.
-4. Click on files to view them directly.
+2. Open the `script.js` and input your credentials (Github username. repository name and repository branch)
+3. Open `index.html` in a web browser.
+4. Click on folders to expand and view contents.
+5. Click on files to view them directly.
 
 ## Technologies Used
 [![Techs Used](https://skillicons.dev/icons?i=js,html,css,github)](https://skillicons.dev)
